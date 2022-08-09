@@ -6,7 +6,9 @@
 ## Part 2. Создание пользователя
 
 Команда создания нового пользователя
+
 ![quest2](quest2.png)
+
 Вывод пользователей командой cat /etc/passwd
 ![quest2_output](quest2_output.png)
 
