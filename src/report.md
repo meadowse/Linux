@@ -8,7 +8,7 @@ ___
 
 * Добавить нового пользователя `sudo adduser alex`
 ![2usern.png](2usern.png)
-* Предоставить пользователю права на чтение логов `sudo chown -R alex: /var/log
+* Предоставить пользователю права на чтение логов `sudo chown -R alex: /var/log`
 ![2Alexgetpermis.png](2Alexgetpermis.png)
 * Новый пользователь должен быть в выводе команды `cat /etc/passwd`
 ![2cat.png](2cat.png)
